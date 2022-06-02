@@ -1,0 +1,5 @@
+﻿  Texturas.cpp
+D:\PC\Documents\Semestre VI\Graficación\Texturas\Texturas.cpp(973,1): warning C4102: 'sa3': etiqueta sin referencia
+D:\PC\Documents\Semestre VI\Graficación\Texturas\Texturas.cpp(988,4): warning C4102: 'fuera': etiqueta sin referencia
+D:\PC\Documents\Semestre VI\Graficación\Texturas\Texturas.cpp(1077,1): warning C4102: 'sig': etiqueta sin referencia
+  Texturas.vcxproj -> D:\PC\Documents\Semestre VI\Graficación\Texturas\Debug\Texturas.exe
