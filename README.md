@@ -1,4 +1,4 @@
-# Texturas
+#### Texturas
 Juego, recoger fresas 
 A contnuación, se realiza una breve descripcion de cómo  ejecutar el proyecto. 
 
