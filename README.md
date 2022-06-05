@@ -8,7 +8,7 @@ A contnuación, se realiza una breve descripcion de cómo  ejecutar el proyecto.
 ```shell
 https://drive.google.com/drive/folders/1jedxwgXz8P9nIBzqZYdcXBLyPUOlVU3y?	 usp=sharing
 ```
-### Ejecición
+### Ejecución
 1. Al ejecutar el visual studio seleccionado, debemos seleccionar el proyecto "Texturas.sln"
 2. Una vez abierto la solución, debemos asignar las librerias al proyecto, esto se puede hacer desde las propiedades del proyecto, en "Propiedades de configuración", seleccionamos "C/C++" y en "Directorios de inclusion adicionales", tendremos algo parecido a esto:
 ```shell 
